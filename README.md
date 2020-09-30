@@ -25,7 +25,7 @@
 ## :arrow_forward: Usage
 
 ```sh
-npx react-native init MyApp --template @youngjuning/react-native-template-typescript
+npx react-native init MyApp --template @youngjuning/react-native-template-mobx
 ```
 
 ### Usage with older versions of React Native
