@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.63.4](https://github.com/youngjuning/react-native-template-mobx/compare/v0.63.3...v0.63.4) (2020-09-30)
+
+
+### Features
+
+* 配置mobx ([da4eb66](https://github.com/youngjuning/react-native-template-mobx/commit/da4eb66e6f3c46d97dda4fa428a79e30723808f5))
+
 ### [0.63.3](https://github.com/youngjuning/react-native-template-mobx/compare/v0.63.2...v0.63.3) (2020-09-30)
 
 
