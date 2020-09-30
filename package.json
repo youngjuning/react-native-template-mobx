@@ -1,6 +1,6 @@
 {
   "name": "@youngjuning/react-native-template-mobx",
-  "version": "0.63.0",
+  "version": "0.63.1",
   "description": "Clean and minimalist React Native template for a quick start with TypeScript and Mobx.",
   "scripts": {
     "commit": "git cz",
