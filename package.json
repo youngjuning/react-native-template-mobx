@@ -4,7 +4,7 @@
   "description": "Clean and minimalist React Native template for a quick start with TypeScript and Mobx.",
   "scripts": {
     "commit": "git cz",
-    "release": "standard-version"
+    "release": "standard-version --release-as patch"
   },
   "files": [
     "template",
